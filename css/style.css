@@ -1,0 +1,75 @@
+*{
+	padding:0px;
+	margin:0px;
+}
+.header{
+	min-height:50px;
+	background-color:gray;
+	margin-bottom:10px
+}
+.logo{
+	float:left;
+	width:20%;
+}
+.navigation{
+	float:right;
+	width:20%;
+}
+h4{
+	padding-top:5px;
+	text-align:center;
+}
+.wrapper{overflow:hidden;
+
+}
+.box1,.box2,.box3,.box4{
+	height:100px;
+	background-color:gray;
+	margin-bottom:25px;
+	width:15%;
+	float:left;
+}
+.box2{
+	margin-left:13%;
+}
+.box3{
+	margin-left:15%;s
+}
+.box4{
+	float:right;
+	margin-left:12%;
+}
+.wrapper2{
+	overflow:hidden;
+}
+.boxone{
+	min-height:300px;
+	background-color:gray;
+	float:left;
+	margin-bottom:10px;
+	width:30%;
+}
+.boxtwo{
+	min-height:300px;
+	background-color:gray;
+	float:left;
+	margin-bottom:10px;
+	width:30%;
+	margin-left:5%;
+}
+.boxthree{
+	min-height:300px;
+	background-color:gray;
+	float:right;
+	margin-bottom:10px;
+	width:30%;
+}
+.footer{
+	min-height:50px;
+	background-color:gray;
+
+}
+
+
+
+	
